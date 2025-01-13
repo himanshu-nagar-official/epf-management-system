@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Build directories (if any)
+build/
+bin/
+obj/
+
+# Debugging files
+*.dSYM/
+*.log
+*.stackdump
+
+# IDE or Editor specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.swo
+*~
+
+# Generated configuration files
+config.log
+config.status
+
+# Test files
+*.gcno
+*.gcda
+*.gcov
